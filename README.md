@@ -7,6 +7,9 @@
 如果你发现资料不全或勘误，欢迎提交及补充。
 
 
+## 下载
+* [Download](https://github.com/rockefys/hit/zipball/master),
+
 ## Authors
 
 **Rockefys**
